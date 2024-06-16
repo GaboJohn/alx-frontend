@@ -430,7 +430,6 @@ template {
     box-sizing: border-box;
 }
 
-/* Effortless transitions when scrolling */
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
@@ -455,7 +454,6 @@ h6 {
     font-weight: var(--font-weight-bold);
 }
 
-/* Anchor Tags  */
 a:link {
     color: var(--text-color);
     text-decoration: none;
@@ -482,7 +480,6 @@ a:active {
     color: var(--color-primary);
 }
 
-/* NAVIGATION BAR  */
 .navbar-menu {
     float: right;
 }
@@ -512,7 +509,6 @@ a:active {
     color: var(--nav-item-link-hover);
 }
 
-/* SECTION SECTION  */
 .section {
     padding: var(--section-padding);
 }
